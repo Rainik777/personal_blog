@@ -1,0 +1,12 @@
+body {
+    --main-bg-color: #181818;
+    --secondary-bg-color: #202020;
+    --main-text-color: #ffffff;
+    --secondary-text-color: #828282;
+    --main-accent-color: #3137c9;
+    --secondary-accent-color: #ed3024;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
